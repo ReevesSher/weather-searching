@@ -1,0 +1,26 @@
+{
+  "name": "weather-searching-rs",
+  "version": "1.0.0",
+  "description": "a small tool for checking weather in command line",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ReevesSher/weather-searching.git"
+  },
+  "author": "reevessher",
+  "license": "MIT",
+  "bin": {
+    "weather": "./bin/weather"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "colorful": "^2.1.0",
+    "request": "^2.36.0"
+  }
+}
