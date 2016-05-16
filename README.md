@@ -22,4 +22,4 @@ $ weather
 $ weather 乌鲁木齐
 $ weather chongqing
 ```
-*This demo that i updata some api url,apikey and add phonetic searching function is based on the original author*
+*This demo that i updata some api url,apikey and add phonetic searching function which depends on Promise is based on the original author*
